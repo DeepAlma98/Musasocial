@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477191904570",
+    "project_id": "musasocial-31105",
+    "storage_bucket": "musasocial-31105.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477191904570:android:3d98226caadc7b3d9ac403",
+        "android_client_info": {
+          "package_name": "com.example.musasocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInQwkktps7JiVeIaFB7BrpQ9s-4Q4EYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
